@@ -57,8 +57,8 @@ global.ppulsa2 = '08979530736'
 global.psaweria = 'https://saweria.co/BaraXDz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '628979530736'
-global.nomorown = '6283174508962'
+global.nomorbot = '94712954748'
+global.nomorown = '94712954748'
 global.namebot = 'BotzzMee'
 global.nameown = 'ZukashikaⒸ︎'
 
